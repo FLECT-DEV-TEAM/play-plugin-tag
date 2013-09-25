@@ -1,4 +1,4 @@
-# tagプラグイン #
+# play-plugin-tag #
 
 Viewテンプレートのカスタムタグを提供します。
 
