@@ -1,0 +1,4 @@
+self: play -> tag 0.1
+
+require:
+    - play
